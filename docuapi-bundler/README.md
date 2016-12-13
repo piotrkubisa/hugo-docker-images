@@ -1,8 +1,8 @@
 # Docker image for Bep's poor man go bundler
 
-| Docker Hub |
-| ---------- |
-| http://..  |
+| Docker Hub                                                 |
+| ---------------------------------------------------------- |
+| https://hub.docker.com/r/piotrkubisa/hugo-docuapi-bundler/ |
 
 ##  Image description
 
