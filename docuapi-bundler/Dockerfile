@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-FROM piotrkubisa/hugo-pygments:latest
+FROM piotrkubisa/hugo-with-pygments:latest
 
 # Preinstall bundler.go dependcies
 RUN go get -u -v "github.com/tdewolff/minify"
