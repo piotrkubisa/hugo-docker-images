@@ -2,7 +2,7 @@
 
 Image name | Description 
 ---------- | -----------
-[with-pygments](with-pygments/README.md) | ...
+[with-pygments](with-pygments/README.md) | Go, Hugo with python3-pygments.
 [docuapi-bundler](docuapi-bundler/README.md) | Comes with pre-installed dependencies for `bundler.go`. Based on `with-pygments` image. 
 
 If you are looking for more details of specified docker image then I recommend navigating to directory where `Dockerfile` are located.
