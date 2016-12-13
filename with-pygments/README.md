@@ -1,8 +1,8 @@
 # Hugo with pygments docker image
 
-| Docker Hub                                         |
-| -------------------------------------------------- |
-| https://hub.docker.com/r/piotrkubisa/hugo-pygments |
+| Docker Hub                                              |
+| ------------------------------------------------------- |
+| https://hub.docker.com/r/piotrkubisa/hugo-with-pygments |
 
 ##  Image description
 
